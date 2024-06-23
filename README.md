@@ -5,7 +5,7 @@ Instalação
 Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/ReconSpider.git
+git clone https://github.com/OliveiraaX/ReconSpider.git
 ```
 <br>Instale as dependências necessárias:
 ```
