@@ -8,4 +8,5 @@ Clone o repositório:
 git clone https://github.com/seu-usuario/ReconSpider.git
 ``
 <br>Instale as dependências necessárias:
-`pip install -r requirements.txt
+```
+pip install -r requirements.txt
