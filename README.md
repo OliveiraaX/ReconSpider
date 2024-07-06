@@ -7,6 +7,4 @@ Clone o repositório:
 ```
 git clone https://github.com/OliveiraaX/ReconSpider.git
 ```
-<br>Instale as dependências necessárias:
-```
-pip install -r requirements.txt
+
